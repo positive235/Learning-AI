@@ -18,4 +18,23 @@
 
 **Today's Progress**: Practical Deep Learning for Coders - Lesson 1. Getting Started
 
-**Thoughts**:
+- [x] Video: Lesson 1. Getting Started
+
+**Thoughts**: Interesting! I want to read a book called "Meta Learning" written by Radek Osmulski, which was mentioned in the lecture video. I guess it is about how to study deep learning.
+
+### Oct 31, 2022
+
+**To-do(Chapter 1)**:
+- [ ] Kaggle notebooks: Jupyter Notebook 101 
+- [ ] Kaggle notebooks: Is it a bird? Creating a model from your own data
+- [ ] The fastai book: chapter 1 notebook
+- [ ] Solutions to chapter 1 questions from the book
+
+**To-read**
+- [ ] Article: Providing a Good Education in Deep Learning
+- [ ] Book: Meta Learning by Radek Osmulski
+- [ ] Book: A Mathematician's Lament by Paul Lockhart
+- [ ] Book: Making Learning Whole by David Perkins
+- [ ] Paper: Fastai - A Layered API for Deep Learning
+
+
