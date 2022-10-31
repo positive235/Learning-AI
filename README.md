@@ -22,7 +22,7 @@
 
 **Thoughts**: Interesting! I want to read a book called "Meta Learning" written by Radek Osmulski, which was mentioned in the lecture video. I guess it is about how to study deep learning.
 
-### Oct 31, 2022
+### Nov 1, 2022
 
 **To-do(Chapter 1)**:
 - [ ] Kaggle notebooks: Jupyter Notebook 101 
