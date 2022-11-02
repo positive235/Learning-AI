@@ -29,9 +29,9 @@
 **Today's Progress**: fastai PDLC Lesson 1 Review
 
 - [x] Kaggle notebooks: Jupyter Notebook 101 
-- [x] Book: Meta Learning by Radek Osmulski [In Progress]
-- [x] Book: A Mathematician's Lament by Paul Lockhart [In Progress]
-- [x] Book: Making Learning Whole by David Perkins [In Progress]
+- [x] Book: Meta Learning by Radek Osmulski **[In Progress]**
+- [x] Book: A Mathematician's Lament by Paul Lockhart **[In Progress]**
+- [x] Book: Making Learning Whole by David Perkins **[In Progress]**
 
 **To-do(Chapter 1)**:
 - [ ] Kaggle notebooks: Is it a bird? Creating a model from your own data
