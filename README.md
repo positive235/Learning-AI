@@ -25,16 +25,16 @@
 ### Nov 1, 2022
 
 **To-do(Chapter 1)**:
-- [ ] Kaggle notebooks: Jupyter Notebook 101 
+- [x] Kaggle notebooks: Jupyter Notebook 101 
 - [ ] Kaggle notebooks: Is it a bird? Creating a model from your own data
 - [ ] The fastai book: chapter 1 notebook
 - [ ] Solutions to chapter 1 questions from the book
 
 **To-read**
 - [ ] Article: Providing a Good Education in Deep Learning
-- [ ] Book: Meta Learning by Radek Osmulski
-- [ ] Book: A Mathematician's Lament by Paul Lockhart
-- [ ] Book: Making Learning Whole by David Perkins
+- [In Progress] Book: Meta Learning by Radek Osmulski
+- [In Progress] Book: A Mathematician's Lament by Paul Lockhart
+- [In Progress] Book: Making Learning Whole by David Perkins
 - [ ] Paper: Fastai - A Layered API for Deep Learning
 
 
