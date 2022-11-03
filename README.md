@@ -33,6 +33,10 @@
 - [x] Book: A Mathematician's Lament by Paul Lockhart **[In Progress]**
 - [x] Book: Making Learning Whole by David Perkins **[In Progress]**
 
+**Thoughts**: I'm tired.
+
+### Nov 3, 2022
+
 **To-do(Chapter 1)**:
 - [ ] Kaggle notebooks: Is it a bird? Creating a model from your own data
 - [ ] The fastai book: chapter 1 notebook
