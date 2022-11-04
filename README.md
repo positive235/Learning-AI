@@ -37,8 +37,19 @@
 
 ### Nov 3, 2022
 
+**Today's Progress**: fastai PDLC Lesson 1 Review
+
+- [x] Kaggle notebooks: Is it a bird? Creating a model from your own data
+  - [x] Created a project based on the project above. - [Is a patient falling from the bed or not?](https://github.com/positive235/patient-falling-binary-classification)
+- [x] Book: Meta Learning by Radek Osmulski **[In Progress]**
+- [x] Book: A Mathematician's Lament by Paul Lockhart **[In Progress]**
+- [x] Book: Making Learning Whole by David Perkins **[In Progress]**
+
+**Thoughts**: It was fun working with my project which classifies a patient falling from the bed or not(binary classfication) and writing its introduction, limitations and improvements.
+
+### Nov 4, 2022
+
 **To-do(Chapter 1)**:
-- [ ] Kaggle notebooks: Is it a bird? Creating a model from your own data
 - [ ] The fastai book: chapter 1 notebook
 - [ ] Solutions to chapter 1 questions from the book
 
