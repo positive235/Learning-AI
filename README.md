@@ -47,7 +47,7 @@
 
 **Thoughts**: It was fun working with my project which classifies a patient falling from the bed or not(binary classfication) and writing its introduction, limitations and improvements.
 
-### Nov 4, 2022
+### Nov 5, 2022
 
 **To-do(Chapter 1)**:
 - [ ] The fastai book: chapter 1 notebook
