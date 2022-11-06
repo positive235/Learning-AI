@@ -49,8 +49,22 @@
 
 ### Nov 5, 2022
 
+**Today's Progress**: fastai PDLC Lesson 1 Review
+
+- [x] The fastai book: chapter 1 notebook **[In Progress]**
+- [x] Book: Meta Learning by Radek Osmulski **[In Progress]**
+- [x] Book: A Mathematician's Lament by Paul Lockhart **[In Progress]**
+- [x] Book: Making Learning Whole by David Perkins **[In Progress]**
+
+**Thoughts**: I purchased the fastai book on google play books. Reading it was fun!
+
+### Nov 6, 2022
+
 **To-do(Chapter 1)**:
-- [ ] The fastai book: chapter 1 notebook
+- [ ] The fastai book: chapter 1 notebook **[In Progress]**
+- [ ] Book: Meta Learning by Radek Osmulski **[In Progress]**
+- [ ] Book: A Mathematician's Lament by Paul Lockhart **[In Progress]**
+- [ ] Book: Making Learning Whole by David Perkins **[In Progress]**
 - [ ] Solutions to chapter 1 questions from the book
 
 **To-read**
