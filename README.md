@@ -66,7 +66,7 @@
 - [ ] Book: A Mathematician's Lament by Paul Lockhart **[In Progress]**
 - [ ] Book: Making Learning Whole by David Perkins **[In Progress]**
 - [ ] Solutions to chapter 1 questions from the book
-- [ ] Write a small paper on GitHub about predicting a patient's fall with a classifier
+- [ ] Write a project report on GitHub about predicting a patient's fall with a classifier
 
 **To-read**
 - [ ] Article: Providing a Good Education in Deep Learning
