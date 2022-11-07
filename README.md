@@ -60,13 +60,30 @@
 
 ### Nov 6, 2022
 
+**Today's Progress**: fastai PDLC Lesson 1 Reiview & Experiments for a project report & Writing a project report
+
+- [x] Experiments for a project report about predicting a patient's fall with a classifier **[In Progress]**
+<img width="847" alt="project-readme-screenshot" src="https://user-images.githubusercontent.com/37922512/200360462-1b980c31-084c-4837-9828-77fa12efbe3e.png">
+
+- [x] Write a project report on GitHub about predicting a patient's fall with a classifier **[In Progress]**
+- [x] The fastai book: chapter 1 notebook **[In Progress]**
+- [x] Book: Meta Learning by Radek Osmulski **[In Progress]**
+- [x] Book: A Mathematician's Lament by Paul Lockhart **[In Progress]**
+- [x] Book: Making Learning Whole by David Perkins **[In Progress]**
+
+**Thoughts**: Data cleanining part was so difficult and took a lot of time today. But I figured it out with stackOverFlow! lol
+
+### Nov 7, 2022
+
 **To-do(Chapter 1)**:
+- [ ] Experiments for a project report about predicting a patient's fall with a classifier **[In Progress]**
+- [ ] Write a project report on GitHub about predicting a patient's fall with a classifier **[In Progress]**
 - [ ] The fastai book: chapter 1 notebook **[In Progress]**
+
 - [ ] Book: Meta Learning by Radek Osmulski **[In Progress]**
 - [ ] Book: A Mathematician's Lament by Paul Lockhart **[In Progress]**
 - [ ] Book: Making Learning Whole by David Perkins **[In Progress]**
 - [ ] Solutions to chapter 1 questions from the book
-- [ ] Write a project report on GitHub about predicting a patient's fall with a classifier
 
 **To-read**
 - [ ] Article: Providing a Good Education in Deep Learning
