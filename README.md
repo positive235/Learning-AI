@@ -63,6 +63,8 @@
 **Today's Progress**: fastai PDLC Lesson 1 Reiview & Experiments for a project report & Writing a project report
 
 - [x] Experiments for a project report about predicting a patient's fall with a classifier **[In Progress]**
+  - [Is a patient falling from the bed or not?](https://github.com/positive235/patient-falling-binary-classification)
+  
 <img width="847" alt="project-readme-screenshot" src="https://user-images.githubusercontent.com/37922512/200360462-1b980c31-084c-4837-9828-77fa12efbe3e.png">
 
 - [x] Write a project report on GitHub about predicting a patient's fall with a classifier **[In Progress]**
